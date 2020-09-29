@@ -1,7 +1,7 @@
 Esto es un texto de prueba
 ahora tiene cambios agregados
-<<<<<<< HEAD
+
 cambios desde test la rama vieja
-=======
+
 estos cambios son desde el servidor remoto
->>>>>>> 0366b9e4f1a7048c52f7293f8efdf3bf5e164175
+
